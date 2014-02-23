@@ -63,7 +63,7 @@
     (pad_drill 0.5)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFFF7F)
+    (visible_elements FFFFDF7F)
     (pcbplotparams
       (layerselection 284196865)
       (usegerberextensions true)
@@ -223,6 +223,11 @@
       (net 6 GND))
     (pad 3 smd rect (at 0 -1.09982 270) (size 0.99822 1.39954) (layers F.Cu F.Mask)
       (net 22 "Net-(Q1-Pad3)"))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/smd_transistors/sot23.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module OSHW-logo_silkscreen_4mm (layer B.Cu) (tedit 52AB27DF) (tstamp 5165F417)
@@ -567,6 +572,11 @@
       (net 16 "Net-(D6-Pad2)"))
     (pad 2 smd rect (at 0.94996 0 180) (size 1.29794 1.4986) (layers B.Cu B.Mask)
       (net 22 "Net-(Q1-Pad3)"))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/resistors/R0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MADW__R0805 (layer F.Cu) (tedit 5163209C) (tstamp 5167A272)
@@ -603,6 +613,11 @@
       (net 11 "Net-(D1-Pad2)"))
     (pad 2 smd rect (at 0.94996 0) (size 1.29794 1.4986) (layers F.Cu F.Mask)
       (net 22 "Net-(Q1-Pad3)"))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/resistors/R0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MADW__R0805 (layer F.Cu) (tedit 5163209C) (tstamp 5162F7EC)
@@ -639,6 +654,11 @@
       (net 14 "Net-(D4-Pad2)"))
     (pad 2 smd rect (at 0.94996 0 180) (size 1.29794 1.4986) (layers F.Cu F.Mask)
       (net 22 "Net-(Q1-Pad3)"))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/resistors/R0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MADW__R0805 (layer B.Cu) (tedit 5163209C) (tstamp 5167A1CA)
@@ -675,6 +695,11 @@
       (net 12 "Net-(D2-Pad2)"))
     (pad 2 smd rect (at 0.94996 0) (size 1.29794 1.4986) (layers B.Cu B.Mask)
       (net 22 "Net-(Q1-Pad3)"))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/resistors/R0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MADW__R0805 (layer B.Cu) (tedit 5163209C) (tstamp 5167A069)
@@ -711,6 +736,11 @@
       (net 13 "Net-(D3-Pad2)"))
     (pad 2 smd rect (at 0.94996 0 180) (size 1.29794 1.4986) (layers B.Cu B.Mask)
       (net 22 "Net-(Q1-Pad3)"))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/resistors/R0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MADW__R0805 (layer F.Cu) (tedit 5163209C) (tstamp 51631C6E)
@@ -747,6 +777,11 @@
       (net 15 "Net-(D5-Pad2)"))
     (pad 2 smd rect (at 0.94996 0 180) (size 1.29794 1.4986) (layers F.Cu F.Mask)
       (net 22 "Net-(Q1-Pad3)"))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/resistors/R0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MADW__push-button-SMD-3.7x6.0 (layer F.Cu) (tedit 523F1D07) (tstamp 52B34B2E)
@@ -781,6 +816,11 @@
       (net 24 "Net-(R9-Pad1)"))
     (pad 2 smd rect (at 3.9 0 180) (size 1.5 1.5) (layers F.Cu F.Mask)
       (net 5 /SCK))
+    (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/switch/smd_push.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MADW__push-button-SMD-3.7x6.0 (layer F.Cu) (tedit 523F1D0D) (tstamp 523F1D24)
@@ -815,6 +855,11 @@
       (net 23 "Net-(R8-Pad1)"))
     (pad 2 smd rect (at 3.9 0 180) (size 1.5 1.5) (layers F.Cu F.Mask)
       (net 2 /MISO))
+    (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/switch/smd_push.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__MLF10 (layer F.Cu) (tedit 52ADC7AE) (tstamp 52ADC811)
@@ -858,6 +903,11 @@
       (net 1 +5V))
     (pad PAD smd rect (at 0 0 90) (size 1.4 3.7) (drill (offset 0 0.5)) (layers F.Cu F.Mask)
       (net 6 GND))
+    (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_qfn/dfn10_3x3.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__C0805 (layer F.Cu) (tedit 52C23E47) (tstamp 516490E7)
@@ -888,6 +938,11 @@
       (net 1 +5V))
     (pad 2 smd rect (at 0.94996 0 270) (size 1.29794 1.4986) (layers F.Cu F.Mask)
       (net 6 GND))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/Capacitors/C0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__CHIPLED-0805 (layer B.Cu) (tedit 530A459B) (tstamp 5167A0F0)
@@ -924,6 +979,11 @@
       (net 1 +5V))
     (pad 2 smd rect (at 1.04902 0 90) (size 1.2 1.5) (layers B.Cu B.Mask)
       (net 12 "Net-(D2-Pad2)"))
+    (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__CHIPLED-0805 (layer F.Cu) (tedit 530A45A5) (tstamp 5163A563)
@@ -960,6 +1020,11 @@
       (net 1 +5V))
     (pad 2 smd rect (at 1.04902 0 180) (size 1.2 1.5) (layers F.Cu F.Mask)
       (net 14 "Net-(D4-Pad2)"))
+    (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__CHIPLED-0805 (layer F.Cu) (tedit 530A459D) (tstamp 5163C9D6)
@@ -996,6 +1061,11 @@
       (net 1 +5V))
     (pad 2 smd rect (at 1.04902 0 90) (size 1.2 1.5) (layers F.Cu F.Mask)
       (net 11 "Net-(D1-Pad2)"))
+    (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__CHIPLED-0805 (layer F.Cu) (tedit 530A45A2) (tstamp 530A4D66)
@@ -1032,6 +1102,11 @@
       (net 1 +5V))
     (pad 2 smd rect (at 1.04902 0 180) (size 1.2 1.5) (layers F.Cu F.Mask)
       (net 15 "Net-(D5-Pad2)"))
+    (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__CHIPLED-0805 (layer B.Cu) (tedit 530A45A7) (tstamp 530A4C01)
@@ -1068,6 +1143,11 @@
       (net 1 +5V))
     (pad 2 smd rect (at 1.04902 0 180) (size 1.2 1.5) (layers B.Cu B.Mask)
       (net 13 "Net-(D3-Pad2)"))
+    (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__CHIPLED-0805 (layer B.Cu) (tedit 530A45A0) (tstamp 530A4C19)
@@ -1104,6 +1184,11 @@
       (net 1 +5V))
     (pad 2 smd rect (at 1.04902 0 180) (size 1.2 1.5) (layers B.Cu B.Mask)
       (net 16 "Net-(D6-Pad2)"))
+    (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/smd_leds/led_0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__R0805 (layer F.Cu) (tedit 530A3CE6) (tstamp 530A3DA9)
@@ -1140,6 +1225,11 @@
       (net 3 /PWM))
     (pad 2 smd rect (at 0.94996 0) (size 1.29794 1.4986) (layers F.Cu F.Mask)
       (net 21 "Net-(Q1-Pad1)"))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/resistors/R0805.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__R0603_2 (layer F.Cu) (tedit 530A3CE1) (tstamp 530A3DBD)
@@ -1172,6 +1262,11 @@
       (net 23 "Net-(R8-Pad1)"))
     (pad 2 smd rect (at 0.84836 0 90) (size 0.99822 1.09982) (layers F.Cu F.Mask)
       (net 6 GND))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/resistors/R0603.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__R0603_2 (layer F.Cu) (tedit 530A3CDC) (tstamp 530A3DD1)
@@ -1204,6 +1299,11 @@
       (net 24 "Net-(R9-Pad1)"))
     (pad 2 smd rect (at 0.84836 0 270) (size 0.99822 1.09982) (layers F.Cu F.Mask)
       (net 6 GND))
+    (model ../../../../../Arduino/KiCAD/kicad_sources/library-repos/kicad-library/modules/packages3d/smd/resistors/R0603.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module my_parts:MADW__mini_USB_B_female_5pin_SMT (layer F.Cu) (tedit 530A4877) (tstamp 530A3707)
@@ -1236,6 +1336,11 @@
       (net 10 "Net-(CON1-Pad9)"))
     (pad 10 thru_hole circle (at -0.00032 -2.19832) (size 0.89916 0.89916) (drill 0.89916) (layers *.Cu *.Mask F.SilkS))
     (pad 11 thru_hole circle (at -0.00032 2.20096) (size 0.89916 0.89916) (drill 0.89916) (layers *.Cu *.Mask F.SilkS))
+    (model ../../../../../Arduino/KiCAD/LIBS/3D/walter/conn_pc/usb_B_mini_smd.wrl
+      (at (xyz -0.055 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (gr_line (start 64.5 111.3) (end 111 111.3) (angle 90) (layer Edge.Cuts) (width 0.2))
