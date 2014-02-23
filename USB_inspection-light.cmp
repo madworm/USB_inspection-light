@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by CvPcb (2014-02-21 BZR 4711)-product date = Sun 23 Feb 2014 07:23:33 PM CET
+
+BeginCmp
+TimeStamp = /516492F3;
+Reference = C1;
+ValeurCmp = 4.7µF;
+IdModule  = my_parts:MADW__C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A2CA4;
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = my_parts:MADW__mini_USB_B_female_5pin_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /516317A0;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516317AF;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516317BC;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516317C2;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631892;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631898;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AB21C7;
+Reference = IC1;
+ValeurCmp = MADW__ATTINY13-MM;
+IdModule  = my_parts:MADW__MLF10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5164175A;
+Reference = JP1;
+ValeurCmp = ISP;
+IdModule  = my_parts:MADW__PIN_ARRAY_3x2_1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51640F6E;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = my_parts:MADW__SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631844;
+Reference = R1;
+ValeurCmp = 100R;
+IdModule  = my_parts:MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631853;
+Reference = R2;
+ValeurCmp = 100R;
+IdModule  = my_parts:MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631862;
+Reference = R3;
+ValeurCmp = 100R;
+IdModule  = my_parts:MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631871;
+Reference = R4;
+ValeurCmp = 100R;
+IdModule  = my_parts:MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318AA;
+Reference = R5;
+ValeurCmp = 100R;
+IdModule  = my_parts:MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318B0;
+Reference = R6;
+ValeurCmp = 100R;
+IdModule  = my_parts:MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51640F23;
+Reference = R7;
+ValeurCmp = 150R;
+IdModule  = my_parts:MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5165A46F;
+Reference = R8;
+ValeurCmp = 1k;
+IdModule  = my_parts:MADW__R0603_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5165A47E;
+Reference = R9;
+ValeurCmp = 1k;
+IdModule  = my_parts:MADW__R0603_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5164146F;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = my_parts:MADW__push-button-SMD-3.7x6.0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5164147E;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = my_parts:MADW__push-button-SMD-3.7x6.0;
+EndCmp
+
+EndListe
