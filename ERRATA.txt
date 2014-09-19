@@ -1,0 +1,8 @@
+
+Pre V0.20 boards:
+-----------------
+
+You may want to place a 100k pull-down resistor across gate & source of
+the MOSFET transistor. These are the 2 pins pointing towards the USB
+connector.
+
